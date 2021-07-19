@@ -2,6 +2,8 @@
 
 # HoloCubic--多功能透明显示屏桌面站
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/35880ce2c5a74f28b4c647412c3afe48)](https://app.codacy.com/gh/lizuyi-6/745?utm_source=github.com&utm_medium=referral&utm_content=lizuyi-6/745&utm_campaign=Badge_Grade_Settings)
+
 **视频介绍：** https://www.bilibili.com/video/BV1VA411p7MD/
 
 ## 0. 关于本项目
